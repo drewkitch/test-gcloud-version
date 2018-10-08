@@ -1,0 +1,2 @@
+gcloud:
+  image: codeship/google-cloud-deployment:latest

@@ -1,0 +1,2 @@
+- service: gcloud
+  command: gcloud version
